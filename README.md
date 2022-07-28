@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cesarvillegase
-- 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning artificial intelligence
 
 
