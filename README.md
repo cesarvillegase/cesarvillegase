@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cesarvillegase
-- 🌱 I’m currently learning artificial intelligence
+- 🌱 I’m currently learning artificial intelligence, I like to go running and be a little produdctive with my time.
 
 
 <!---
