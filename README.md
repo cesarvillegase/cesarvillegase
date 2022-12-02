@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesarvillegase
-- 🌱 I’m currently learning artificial intelligence, I like to go running and be a little produdctive with my time.
-
+- 🌱 I’m currently learning artificial intelligence, and i'm improving my portfolio to know more about programming.
+- 🫡 I want to find my purpose and make the difference with my work!
 
 <!---
 - 💞️ I’m looking to collaborate on ...
